@@ -18,4 +18,3 @@ enum Roles{
   ADMIN,
   USER
 }
-console.log(Roles[0])
